@@ -1,0 +1,6 @@
+umg\edu\gt\pg\ApiBookManager\Book\Manager\BookManagerApplication.class
+umg\edu\gt\pg\ApiBookManager\Book\Manager\Controller\BookManagerController.class
+umg\edu\gt\pg\ApiBookManager\Book\Manager\Model\BookManager.class
+umg\edu\gt\pg\ApiBookManager\Book\Manager\Repository\BookRepository.class
+umg\edu\gt\pg\ApiBookManager\Book\Manager\Configuration\JpaConfiguration.class
+umg\edu\gt\pg\ApiBookManager\Book\Manager\Service\BookService.class
